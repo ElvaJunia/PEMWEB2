@@ -32,7 +32,7 @@ include_once('menu.php');
                 <div class="col-sm-6">
                     <ol class="breadcrumb float-sm-right">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active">Registrasi</li>
+                        <li class="breadcrumb-item active"></li>
                     </ol>
                 </div>
             </div>
@@ -42,7 +42,7 @@ include_once('menu.php');
                     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-                    <form method="POST" action="prosesregistrasi.php">
+                    <form method="POST" action="proses_registrasi.php">
                         <div class="form-group row">
                             <label for="nim" class="col-4 col-form-label">NIM</label>
                             <div class="col-8">
